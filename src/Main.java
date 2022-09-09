@@ -4,6 +4,7 @@ public class Main {
         SuperGreeter superGreeter = new SuperGreeter();
         superGreeter.start();
         superGreeter.intastnavn();
+        superGreeter.askAboutAge();
     }
 
 }
